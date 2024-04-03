@@ -1,0 +1,9 @@
+{
+	"name": "dataFactory-olympics-india",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2ed44cc-c0a6-41c1-a6fa-4cd53648b95e",
+		"tenantId": "84c31ca0-ac3b-4eae-ad11-519d80233e6f"
+	}
+}
